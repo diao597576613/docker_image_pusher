@@ -11,3 +11,4 @@ lovechen/embyserver
 linuxserver/hedgedoc
 neosmemo/memos
 b3log/siyuan
+jasminexzzz/blossom
