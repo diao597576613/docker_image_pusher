@@ -9,3 +9,4 @@ johngong/qbittorrent
 jxxghp/moviepilot
 lovechen/embyserver
 linuxserver/hedgedoc
+neosmemo/memos
